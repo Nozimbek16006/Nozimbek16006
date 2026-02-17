@@ -39,6 +39,6 @@ Men zamonaviy texnologiyalar orqali muammolarga yechim topishni va doimiy ravish
 ### 🤝 Men bilan bog'laning:
 
 <p align="left">
-<a href="https://t.me/SizningUsername" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/Nozimbek_17" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/SizningUsername" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
