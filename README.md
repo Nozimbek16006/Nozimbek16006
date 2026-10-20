@@ -1,90 +1,153 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1220,50:111827,100:164E63&text=NOZIMBEK%20AZAMOV&fontSize=38&fontColor=F8FAFC&fontAlignY=42&desc=Software%20Developer%20%7C%20Python%20%26%20Web%20Technologies&descSize=14&descAlignY=64&descColor=94A3B8" width="100%" alt="Nozimbek Azamov — Software Developer" />
+# ⚡ NOZIMBEK AZAMOV
 
-<br />
+### `Full-Stack Developer` · `Python Developer` · `Tech Enthusiast`
 
-[GitHub](https://github.com/Nozimbek16006) · [Repositories](https://github.com/Nozimbek16006?tab=repositories) · [Portfolio](https://nozimbek1617.netlify.app)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+the+Future+with+Code;Python+%7C+Django+%7C+JavaScript;Turning+Ideas+into+Reality;Always+Learning.+Always+Building." alt="Typing SVG" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nozimbek16006-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nozimbek16006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nozimbek1617.netlify.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nozimbek16006&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/Nozimbek16006)
 
 </div>
 
-## `01 / PROFILE`
+---
 
-I'm a developer focused on building practical software, modern web applications, and reliable backend systems.
+## 👨‍💻 About Me
 
-I enjoy working across the stack — from designing user interfaces to implementing application logic, integrating APIs, and managing data.
+```python
+class Nozimbek:
+    def __init__(self):
+        self.name = "Nozimbek Azamov"
+        self.role = "Full-Stack Developer"
+        self.languages = ["Python", "JavaScript", "C", "C++"]
+        self.backend = ["Django", "Firebase"]
+        self.interests = [
+            "Web Development",
+            "Cybersecurity",
+            "Cloud Computing",
+            "Artificial Intelligence"
+        ]
+        self.mindset = "Learn • Build • Improve"
 
-- **Primary focus:** Python, Django, and web development
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
-- **Backend & data:** Django, Firebase, REST API fundamentals
-- **Interests:** Software architecture, cloud computing, cybersecurity
-- **Approach:** Clean code, continuous learning, and practical problem-solving
+    def motto(self):
+        return "Turning ideas into real-world solutions."
+```
 
-## `02 / TECHNICAL STACK`
+- 🚀 Building modern web applications and useful digital products.
+- 🐍 Exploring Python, Django, and backend development.
+- 🌐 Creating responsive and interactive web experiences.
+- 🔐 Interested in cybersecurity and cloud technologies.
+- 📚 Learning continuously and improving through real projects.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp&theme=dark" alt="Programming languages" />
 
-**Frameworks & Platforms**
+### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=django,react,bootstrap,firebase&theme=dark" alt="Frameworks and platforms" />
-
-**Tools & Environment**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=django,bootstrap,react,firebase,git,github,vscode,linux&theme=dark" alt="Frameworks and developer tools" />
 
 </div>
 
-## `03 / SELECTED WORK`
+---
 
-### Web Applications
+## 🚀 Featured Projects
 
-Building responsive web interfaces and full-stack applications with attention to usability, maintainability, and functionality.
+<table>
+<tr>
+<td width="50%">
 
-### Educational Technology
+### 🌐 Personal Portfolio
 
-Working on IELTS learning experiences, online assessments, user authentication, and educational content management.
+A personal space showcasing my development journey, skills, and projects.
 
-### Automation & AI
+**Focus:** Web Design · Django · Responsive UI
 
-Exploring Python automation, Telegram bots, API integrations, and assistant-style applications.
+[↗ Explore my repositories](https://github.com/Nozimbek16006?tab=repositories)
 
-> Explore the actual source code and project history in my [GitHub repositories →](https://github.com/Nozimbek16006?tab=repositories)
+</td>
+<td width="50%">
 
-## `04 / GITHUB ACTIVITY`
+### 🎓 IELTS Learning Platform
+
+An educational platform concept for IELTS preparation, online tests, and learning resources.
+
+**Focus:** React · Firebase · Authentication
+
+[↗ Explore my repositories](https://github.com/Nozimbek16006?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation
+
+Experimenting with Python-based assistants, automation, and intelligent applications.
+
+**Focus:** Python · APIs · Automation
+
+[↗ Explore my repositories](https://github.com/Nozimbek16006?tab=repositories)
+
+</td>
+<td width="50%">
+
+### 📡 Telegram Bots
+
+Building useful bots and exploring integrations that simplify everyday tasks.
+
+**Focus:** Python · Telegram Bot API
+
+[↗ Explore my repositories](https://github.com/Nozimbek16006?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nozimbek16006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=67E8F9&include_all_commits=true" alt="GitHub contribution statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nozimbek16006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&include_all_commits=true" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nozimbek16006&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most used programming languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nozimbek16006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Most used languages" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nozimbek16006&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub contribution streak" />
 
 </div>
 
-## `05 / CURRENT DIRECTION`
+---
 
-```text
-01  Backend engineering       Python · Django · APIs
-02  Frontend development      JavaScript · React · CSS
-03  Systems & infrastructure  Linux · Cloud · Security
-04  Engineering practice     Maintainability · Problem-solving
-```
+## 🎯 Current Focus
 
-## `06 / CONNECT`
+- ⚙️ Developing full-stack applications with Django and modern JavaScript.
+- 🧠 Improving problem-solving and software architecture skills.
+- ☁️ Exploring cloud computing and cybersecurity.
+- 🚀 Turning personal projects into useful products.
 
-Interested in software development, collaboration, and building useful digital products.
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Nozimbek16006)
-[![Repositories](https://img.shields.io/badge/Source_Code-Explore-161B22?style=flat-square&logo=git&logoColor=67E8F9)](https://github.com/Nozimbek16006?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-161B22?style=flat-square&logo=googlechrome&logoColor=67E8F9)](https://nozimbek1617.netlify.app)
+**Have an idea? Let's build something amazing.**
 
-<br />
+[![GitHub](https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github)](https://github.com/Nozimbek16006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nozimbek1617.netlify.app)
 
-<sub>Focused on building software that solves real problems.</sub>
+### `Code with purpose. Build with passion. 🚀`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2563EB,100:7C3AED&height=120&section=footer" width="100%" alt="Decorative footer" />
 
 </div>
