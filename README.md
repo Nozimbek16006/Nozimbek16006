@@ -8,7 +8,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nozimbek16006-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nozimbek16006)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nozimbek1617.netlify.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nozimbek16006&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/Nozimbek16006)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nozimbek16006&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 </div>
 
